@@ -12,7 +12,7 @@
 <p align="center">As an M.Tech graduate in Computer Science, I possess strong problem-solving skills and a keen interest in front-end development. I am highly motivated to leverage my technical expertise and contribute to the field by creating compelling user experiences and utilizing the latest technologies.<p>
 <div style="display: inline;">
 <div style="display: inline-block; vertical-align: middle;">
-<h3>👦About Me:</h3>
+<h3> 👦 About Me:</h3>
 <p>🔭 Attended coding bootcamp from Newton School</p>
 <p>🌱 Currently enhancing my skills by working on projects</p>
 <p>👨‍💻 Looking for Full Time Role as Developer</p>
@@ -22,7 +22,7 @@
 </div>
 <div>
     <div style="display:inline;">
-<h3 style="display:inline-block; vertical-align: middle;">My Skills:</h3>
+<h3 style="display:inline-block; vertical-align: middle;"> 📚 My Skills:</h3>
 <img src="https://img.icons8.com/?size=60&id=20909&format=png" alt="html" />
 <img src="https://img.icons8.com/?size=60&id=7gdY5qNXaKC0&format=png" alt="css"/>
 <img src="https://img.icons8.com/?size=60&id=PXTY4q2Sq2lG&format=png" alt="css"/>
@@ -34,13 +34,13 @@
 <img src="https://img.icons8.com/?size=60&id=20906&format=png" alt="css"/>
 </div>
 <div>
-    <h3>🤝Connect With Me Through:</h3>
+    <h3> 🤝 Connect With Me Through:</h3>
     <img src="https://img.icons8.com/?size=60&id=13930&format=png" alt="linked in"/>
    <div> <a href="https://www.linkedin.com/in/chetana-m-jyothi/" style="text-decoration: none; color: white; font-weight: bold; border:1px solid black; border-radius: 20px; padding: 5px 20px; background-color: #0077B5;">Linked in</a></div>
     
 </div>
 <div>
-   <h3> My Projects</h3>
+   <h3> ⚒️ My Projects</h3>
    <div style="display: inline; padding: 20px 30px; background-color: #cb7a92; color: white;" ><h4 style="display: inline-block;">Twitter Clone [ React ]</h4><a href="https://search-isro-centres.netlify.app/" style="font-size: 15px; display: inline-block;text-decoration: none; color: white; font-weight: bold; border:1px solid black; padding: 5px 20px; background-color: #7d032a; margin-left: 10px;">Hosted Link</a></div>
    <br></br>
    <div style="display: inline; padding: 20px 30px; background-color: #cb7a92; color: white;" ><h4 style="display: inline-block;">Personal Portfolio [ React ]</h4><a href="https://chetana-m-j-portfolio.netlify.app/" style="font-size: 15px; display: inline-block;text-decoration: none; color: white; font-weight: bold; border:1px solid black; padding: 5px 20px; background-color: #7d032a; margin-left: 10px;">Hosted Link</a></div>
